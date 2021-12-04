@@ -1,14 +1,16 @@
 {
-    "name": "Session Hack Bot",
+    "name": "LionX BOT",
     "description": "A bot CAN DO ANYTHING",
-    "logo": "https://telegra.ph/file/a144db1bfcddc745214a1.jpg",
+    "logo": "",
     "keywords": [
         "TELETHON",
+        "TeamLionX",
         "Telegram Bot",
-        "piro bolte"
+        "piro bolte",
+        "Simpleboy786"
     ],
-    "website": "https://t.me/LionXUpdates",
-    "success_url": "https://telegram.dog/LEGENDX22",
+    "website": "",
+    "success_url": "https://telegram.dog/Simpleboy786",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
