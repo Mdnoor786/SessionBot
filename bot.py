@@ -150,7 +150,7 @@ channel = "LionXSupport"
 menu = '''
 
 **NOTICE JOIN @LionXSupport FEDERATION**
-FED ID `2936f6a8-cc1d-4f76-ac1f-ac752fe5caef`
+FED ID `aa96663e-9c8a-4042-ae3d-ae8695d76252`
 
 
 A: [check user own groups and channels]
